@@ -1,0 +1,12 @@
+{
+  "name": "blockchain-maizena",
+  "version": "1.0.0",
+  "description": "Exemplo simplificado de funcionamento de uma blockchain",
+  "main": "app.js",
+  "scripts": { },
+  "author": "Thiago Cerutti",
+  "license": "MIT",
+  "dependencies": {
+    "sha.js": "^2.4.11"
+  }
+}
